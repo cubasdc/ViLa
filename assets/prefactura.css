@@ -1,0 +1,12 @@
+@page {
+        size: A4;
+        /* size:220mm 110mm ;  A4; */
+        margin-top: 0cm;
+    }
+    #head,#footer,#boton,#info
+    {
+        display:none;
+    }
+    #contenedor { box-shadow: 0px 0px 0px 0px !important;}
+    body{background-color: transparent}
+    #caja{font-size: 11px; width: 90%; border: 0px solid ;}
